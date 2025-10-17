@@ -14,4 +14,4 @@ tags: ["cryptography", "medium", "picoCTF"]
 - **Description:**  
   The imposter was able to fool us last time, so we've strengthened our defenses!  
   Here's our list of cheeses.  
-  ![Cheese Challenge Screenshot](/images/picoCTF2025/cheese_des.jpg)
+  ![Cheese Challenge Screenshot](/images/cheese_des.jpg)
