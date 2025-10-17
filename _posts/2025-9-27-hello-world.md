@@ -1,9 +1,17 @@
 ---
-title: "Hello world"
-date: 2025-09-23 00:00:00 +0800
-categories: [Hello World]
-tags: [Hello World]
+title: "picoCTF 2025"
+date: 2025-03-08 00:00:00 +0800
+categories: [picoCTF]
+tags: ["cryptography", "medium", "picoCTF"]
 ---
 
-# Hello world
-This is testing post
+
+## 🧀 Challenge Overview
+
+- **Challenge Name:** Guess My Cheese (Part 2)  
+- **Category:** Cryptography  
+- **Level:** Medium (300 points)  
+- **Description:**  
+  The imposter was able to fool us last time, so we've strengthened our defenses!  
+  Here's our list of cheeses.  
+  ![Cheese Challenge Screenshot](/images/picoCTF2025/cheese_des.jpg)
